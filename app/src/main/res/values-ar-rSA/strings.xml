@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toppings" translatable="false">الاضافات</string>
+    <string name="whipped_cream" translatable="false">كريمة بيضاء</string>
+    <string name="quantity" translatable="false">الكمية</string>
+</resources>

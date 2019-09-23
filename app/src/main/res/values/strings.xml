@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="todo">TODO</string>
+    <string name="ordersummary">Oreder Summary</string>
+    <string name="_10">0.00$</string>
+    <string name="_2">2</string>
+    <string name="dec">_</string>
+    <string name="inc">+</string>
+    <string name="order">ORDER</string>
+    <string name="quality">quantity</string>
+    <string name="whipped_cream" translatable="false">Whipped Cream</string>
+    <string name="toppings" translatable="false">Toppings</string>
+
+</resources>
